@@ -28,7 +28,7 @@ ResponsiveVoice API: Recurso de narração por voz.
 
 ## 🔗 Link para Teste
 O projeto está publicado e pode ser acessado através do link:
-👉 Acesse o Jogo Aqui
+👉 Acesse o Jogo Aqui: https://jogo-nine-blush-61.vercel.app/
 
 ## 🏗️ Como Rodar Localmente
 Clone este repositório:
@@ -37,7 +37,7 @@ git clone https://github.com/seu-usuario/nome-do-projeto.git
 Abra o arquivo index.html no seu navegador de preferência.
 
 ## 👩‍💻 Autora
-**Bianca Gomes**
+**Bianca Lira**
 Analista de QA em formação e entusiasta de tecnologia.
 
 **Linkedin:** https://www.linkedin.com/in/bianca-gomes-de-lira/

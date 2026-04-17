@@ -3,7 +3,9 @@
 <img width="1904" height="863" alt="image" src="https://github.com/user-attachments/assets/d721f8d1-a476-490c-84f6-3752d6a96b62" />
 
 
-**📝 Sobre o Projeto**
+
+
+## 📝 Sobre o Projeto
 Este projeto é um Jogo de Adivinhação Numérica interativo, desenvolvido como parte do meu aprendizado prático no curso de Lógica de Programação com JavaScript da Alura.
 
 O código foi estruturado para exercitar conceitos fundamentais do desenvolvimento web, como a manipulação de elementos do HTML através do JavaScript (DOM), o uso de funções com parâmetros e retorno, e a aplicação de lógica de controle com condicionais e recursividade.

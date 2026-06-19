@@ -3,7 +3,11 @@
 <img width="1904" height="863" alt="image" src="https://github.com/user-attachments/assets/d721f8d1-a476-490c-84f6-3752d6a96b62" />
 
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
 ## 📝 Sobre o Projeto
 Este projeto é um Jogo de Adivinhação Numérica interativo, desenvolvido como parte do meu aprendizado prático no curso de Lógica de Programação com JavaScript da Alura.
